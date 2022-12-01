@@ -1,4 +1,4 @@
-<h1 style="font-size: 25px;">--Instagram clone--<h1>
+<h1 style="font-size: 25px;">--Instagram clone</h1>
 #
 
 This is an assignment to clone Instagram Landing webpage.

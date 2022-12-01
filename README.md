@@ -6,6 +6,6 @@ It is for teaching and learning purposes.
 
 This is the link to cloned webpage: https://benita-ig-clone.netlify.app/
 
-<h2 style="font-size: 25px;">List of Words that Should be Spelled Correctly</h2>
-instagram
+**List of Words that Should be Spelled Correctly**
+instagram </br>
 about

@@ -1,4 +1,4 @@
-****Instagram clone****
+-Instagram clone-
 #
 
 This is an assignment to clone Instagram Landing webpage.

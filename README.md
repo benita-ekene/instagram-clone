@@ -1,6 +1,5 @@
-Instagram clone
+****Instagram clone****
 #
-__Instagram clone__
 
 This is an assignment to clone Instagram Landing webpage.
 It is for teaching and learning purposes.
